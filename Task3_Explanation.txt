@@ -1,0 +1,4 @@
+I redesigned Instagram's main feed to solve the issue of too many ads.
+All ads are moved to a separate "Ads" tab in the bottom navigation bar.
+This gives users a clean, uninterrupted browsing experience in the home feed.
+The layout is cleaner, icons are simplified, and navigation is more user-focused.

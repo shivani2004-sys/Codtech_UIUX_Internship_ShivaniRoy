@@ -1,0 +1,3 @@
+TASK 4 – AR Home Decor & VR Meditation App (UI Mockups Only)
+HOMESPACE
+I designed static mockups for two app concepts – an AR-based Home Decor app and a VR Meditation experience. For the AR Home Decor app, I created a Furniture Catalog screen with neatly placed items (sofa, bed, chair, lamp, table, shelf) and a central “Place” button to simulate placement. For the VR Meditation app, I designed a Home screen featuring buttons for “Start,” “Time Select,” and “Sound Options,” with a calm background image to reflect the app’s purpose. The focus was solely on UI structure and placement, without adding interactions, effects, or animations.

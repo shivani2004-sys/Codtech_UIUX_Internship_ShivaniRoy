@@ -1,0 +1,3 @@
+TASK 1 - Zomato Landing Page Redesign
+
+I redesigned Zomato’s landing page to improve usability and aesthetics. I used a clearer layout with a central heading and search bar, made category options visually distinct, and added a bold call-to-action button. The background was kept dark with vibrant highlights to maintain food appeal while increasing focus on key actions.
